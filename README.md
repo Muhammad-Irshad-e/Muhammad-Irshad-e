@@ -40,7 +40,6 @@ If you’re working on something exciting in AI or web development, I’d love t
 ## 📚 Currently Learning
 - Advanced Python and AI frameworks  
 - Full-stack web development with Django & React  
-- Cloud deployment (AWS / Render)
 
 ---
 
