@@ -43,25 +43,6 @@ If you’re working on something exciting in AI or web development, I’d love t
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Irshad-e&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Irshad-e&theme=tokyonight&hide_border=false" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Irshad-e&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-</p>
-
-
----
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Muhammad-Irshad-e&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" />
-</p>
-
----
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
