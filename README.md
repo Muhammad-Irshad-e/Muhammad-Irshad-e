@@ -67,11 +67,6 @@ If you’re working on something exciting in AI or web development, I’d love t
 
 ---
 
-### 🔝 Top Contributed Repos
-![](https://github-contributor-stats.vercel.app/api?username=Muhammad-Irshad-e&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-
 [![](https://visitcount.itsvg.in/api?id=Muhammad-Irshad-e&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
